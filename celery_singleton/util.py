@@ -1,4 +1,4 @@
-import json
+from kombu.utils import json
 from hashlib import md5
 
 
